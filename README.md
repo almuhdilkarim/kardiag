@@ -2,7 +2,7 @@
 
 <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/77d5850a-c3a4-47fe-b33e-dcaeeb3c8e4d" />
 
-# CARDIAG
+# KARDIAG
 
 **Lightweight, self-contained Linux® server monitoring tool.**
 
